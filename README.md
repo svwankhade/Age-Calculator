@@ -1,0 +1,1 @@
+Age Calculator is a simple web page with a date input, a button to calculate the age and a result display. The CSS provides some basic styling, and the JavaScript calculates the age based on the entered date of birth. 
